@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "reactstrap": "https://cdnjs.cloudflare.com/ajax/libs/reactstrap/4.8.0/reactstrap.min.js",
+    "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.5/lib/system/single-spa.min.js",
+
+    "@test/root-config": "https://storage.googleapis.com/singla-spa-test/layout/test-root-config.js",
+    "@krasovsky/test": "https://storage.googleapis.com/singla-spa-test/chart/krasovsky-test.js",
+    "@krasovsky/navigation": "//localhost:8501/krasovsky-navigation.js"
+  }
+}
